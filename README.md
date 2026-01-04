@@ -1,5 +1,3 @@
-# phishing-emails-writeup
-
 ## Exercise 2: Phishing Emails in Action (TryHackMe)
 
 ### Introduction
